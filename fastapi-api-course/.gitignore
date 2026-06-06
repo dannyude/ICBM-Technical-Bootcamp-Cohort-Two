@@ -1,0 +1,11 @@
+__pycache__
+# Ignore the __pycache__ directory, which contains compiled Python files.
+*.pyc
+# Ignore all .pyc files, which are compiled Python files.
+# Ignore the .vscode directory, which contains Visual Studio Code settings and configurations.
+.vscode/
+.venv
+# Ignore the .venv directory, which is a common name for a Python virtual environment.
+env/
+.claude
+# Ignore the .claude directory, which may contain files related to the Claude AI assistant.
